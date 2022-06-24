@@ -1,0 +1,9 @@
+.post-votes-value-loading {
+    width: 2ch !important;
+  }
+  
+  .post {
+    display: flex;
+    transition: box-shadow 0.1s ease-in;
+  }
+  

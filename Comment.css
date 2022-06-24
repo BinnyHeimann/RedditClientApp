@@ -1,0 +1,18 @@
+.comment {
+    transition: box-shadow 0.1s ease-in;
+  }
+  
+  .comment-metadata {
+    display: flex;
+    align-items: center;
+  }
+  
+  .comment-created-time {
+    margin-left: auto;
+    font-style: italic;
+  }
+  
+  .comment-author {
+    font-weight: bold;
+  }
+  

@@ -1,0 +1,25 @@
+  .subreddit-card h2 {
+    margin-top: 0;
+  }
+  
+  .subreddit-card button {
+    background: none;
+    border: none;
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+    cursor: pointer;
+    width: 100%;
+  }
+
+  .subreddits-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .subreddit-icon {
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+  }
+  
